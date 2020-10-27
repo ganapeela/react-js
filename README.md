@@ -19,3 +19,7 @@
 3.ftfuj
 
 **ghgvh
+
+| Name | SR |
+-------------
+| Gana | Peela |
