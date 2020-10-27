@@ -20,6 +20,6 @@
 
 **ghgvh
 
-| Name | SR |
+| Name | SR 
 -------------
-| Gana | Peela |
+| Gana | Peela 
