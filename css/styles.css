@@ -1,0 +1,45 @@
+*{
+	background-color: #E7E7E7;
+}
+h1,h3,h6{
+	color: #9c640c;
+}
+#hiid,.hi{
+	border: 2px solid #9c560c;
+}
+
+.card{
+	border: 2px solid #33FF94;
+	margin: 10px;
+	padding: 10%;
+}
+
+.parent-card{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.img1{
+	width: 100px;
+	height: 100px;
+}
+
+@media screen and (max-width: 425px){
+	.card{
+		background-color: red;
+		flex-direction: row-reverse;
+	}
+}
+
+@media screen and (min-width: 426px) and (max-width: 758px){
+	.card{
+		background-color: yellow;
+		flex-direction: column-reverse;
+	}
+}
+
+@media screen and (min-width: 760px) and (max-width: 1024px){
+	.card{
+		background-color: green;
+	}
+}
